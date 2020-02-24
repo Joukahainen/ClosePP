@@ -1,4 +1,4 @@
-# LSTM-closePP
+# LSTM-ClosePP
 Estimation of closing price using LSTM
 
 This is a repo for work at home on the closing price prediction project.
